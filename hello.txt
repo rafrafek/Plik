@@ -1,0 +1,10 @@
+[Thumb]
+weight=10
+
+[Foot]
+weight=20
+smell=12
+
+[Ear]
+count=2
+weight=4
